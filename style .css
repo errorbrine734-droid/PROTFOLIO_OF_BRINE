@@ -1,0 +1,100 @@
+.WELCOME2{
+  font-family: 'Times New Roman';
+  text-align: center;
+  font-weight: bold;
+  font-size:90px;
+  color: rgb(255, 215, 0);
+  margin-top: 0px;
+  background-color: rgb(196, 33, 82);
+}
+
+.WELCOME{
+  font-family: 'Times New Roman';
+  text-align: center;
+  font-weight: bold;
+  font-size: 60px;
+  color: rgb(255, 215, 0);
+  margin-bottom: 0px;
+  margin-top: 27px;
+  background-color: rgb(196, 33, 82);
+}
+
+.WELCOME3{
+  font-family: 'Times New Roman';
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  color: rgb(255, 215, 0);
+  margin-bottom: -7px;
+  margin-top: 0px;
+  background-color: rgb(196, 33, 82);
+}
+
+.hero_like_headline{
+  font-size: x-large;
+  margin-top: 30px;
+  font-size: 39px;
+  color: white;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(21, 50, 94);
+}
+
+.hero-like-sub-heading{
+  font-size:x-large;
+  margin-top: 30px;
+  color: white;
+  text-align: center;
+}
+
+.e-mail{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 7px;
+  padding-right: 7px;
+  color: red;
+  background-color: rgb(255, 255, 53);
+  font-family: monospace;
+  font-size: x-large;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.15s;
+
+}
+.e-mail:hover{
+  opacity:0.8;
+  transition: 0.15s;
+}
+
+.e-mail:active{
+  opacity: 0.3;
+}
+
+.error{
+  font-size:x-large;
+  margin-top: 30px;
+  color: white;
+  display: inline-block;
+}
+
+.ABOUT_ME{
+  font-size: x-large;
+  margin-top: 30px;
+  font-size: 39px;
+  color: white;
+  text-align: center;
+}
+
+.about{
+  font-size:x-large;
+  margin-top: 30px;
+  color: white;
+  text-align: left;
+  display: inline-block;
+}
+
+.pizza img{
+ width: 30px;
+}
